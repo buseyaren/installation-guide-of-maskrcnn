@@ -7,7 +7,7 @@
     -Anaconda Cloud: https://www.anaconda.com
 
 🔺 **Step 1:** Compatible with Python 3.6 version, a virtual environment named maskrcnn is created in conda prompt.
->conda create -n maskrcnn python=3.6
+>conda create -n maskrcnn python=3.6.12
 
 🔺 **Step 2:** The maskrcnn virtual environment is activated.
 >conda activate maskrcnn
