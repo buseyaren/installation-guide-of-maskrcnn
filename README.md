@@ -21,7 +21,7 @@
 **Dependencies**
 >numpy, scipy, cython, h5py, Pillow, scikit-image, 
 
-
+=======
 For GPU: tensorflow-gpu:1.15.0, keras:2.2.5
 For CPU: tensorflow:1.14.0, keras:2.0.8, h5py:2.10.0
 =======
